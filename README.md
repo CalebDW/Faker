@@ -11,6 +11,9 @@ Faker is a PHP library that generates fake data for you. Whether you need to boo
 
 It's heavily inspired by Perl's [Data::Faker](https://metacpan.org/pod/Data::Faker), and by Ruby's [Faker](https://rubygems.org/gems/faker).
 
+> [!TIP]
+> For [PHPStan](https://phpstan.org) support, check out [calebdw/fakerstan](https://github.com/calebdw/fakerstan)!
+
 ## Getting Started
 
 ### Installation
